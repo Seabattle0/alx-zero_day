@@ -1,0 +1,6 @@
+echo "ALX"
+#!/bin/bash
+echo "ALX"
+cat > alx
+clear
+
